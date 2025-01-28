@@ -1,6 +1,10 @@
 ## ILLUMINE Project
 
-The Intelligent Learning for Light Source and Neutron Source User Measurements Including Navigation and Experiment Steering (ILLUMINE) project is multi-facility DOE funded project.
+The Intelligent Learning for Light Source and Neutron Source User Measurements Including Navigation and Experiment Steering (ILLUMINE) project is multi-facility DOE funded project.  
+
+The are many code repositories and existing software projects that ILLUMINE has either created or made contributions to.
+- The Bluesky Project - Homepage: https://blueskyproject.io/ - GitHub Org: https://github.com/bluesky 
+- 
 
 <!--
 

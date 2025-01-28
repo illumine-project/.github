@@ -1,1 +1,1 @@
-# .github
+# Welcome to the ILLUMINE Project 
